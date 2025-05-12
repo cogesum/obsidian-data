@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"4fd3b86b0b623862","type":"text","text":"data structure","x":-95,"y":-30,"width":250,"height":60},
+		{"id":"8dd2f12703fd02a6","type":"text","text":"Stack, queue, deque","x":270,"y":-30,"width":250,"height":60,"color":"3"},
+		{"id":"c6c795fbb0bc8e2e","type":"text","text":"algos","x":-360,"y":-25,"width":145,"height":50,"color":"6"},
+		{"id":"9687305f3c531424","type":"file","file":"algos/courses/vk/стек, очередь, дек/Стек на списке.md","x":980,"y":-287,"width":340,"height":215},
+		{"id":"4e940c6effc830fb","type":"text","text":"Stack on linked list","x":600,"y":-179,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"06eb62bd1f7ff09f","fromNode":"8dd2f12703fd02a6","fromSide":"right","toNode":"4e940c6effc830fb","toSide":"left"},
+		{"id":"ede00a68940bb22a","fromNode":"4e940c6effc830fb","fromSide":"right","toNode":"9687305f3c531424","toSide":"left"},
+		{"id":"30db0965afcd9dfc","fromNode":"c6c795fbb0bc8e2e","fromSide":"right","toNode":"4fd3b86b0b623862","toSide":"left"},
+		{"id":"9e2c97ae3e0e117e","fromNode":"4fd3b86b0b623862","fromSide":"right","toNode":"8dd2f12703fd02a6","toSide":"left"}
+	]
+}

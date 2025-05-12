@@ -17,3 +17,14 @@ barman работает в двух режимах:
 🟩 **Современный подход — использовать pull-based (streaming_archiver = on)**  
 Он более надёжен и не зависит от ssh/rsync
 
+- не забыть сделать юзера barman:
+```sql
+	CREATE USER barman WITH REPLICATION PASSWORD 'barman_password';
+	GRANT CONNECT ON DATABASE postgres TO barman;
+```
+- конфиг файл
+- настройка pg_hba.conf
+- настройка postges.conf
+- https://sidmid.ru/barman-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80-%D0%B1%D1%8D%D0%BA%D0%B0%D0%BF%D0%BE%D0%B2-%D0%B4%D0%BB%D1%8F-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%BE%D0%B2-postgresql/
+### grpc
+- ? заворачивать в архив все, для удобства

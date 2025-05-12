@@ -8,91 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3c035f302b6b09bf",
+            "id": "a6e6c88113666712",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ai/AI list.md",
+                "file": "work/backup-service/Встроенные механизмы резервирования.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI list"
+              "title": "Встроенные механизмы резервирования"
             }
           },
           {
-            "id": "08a92159ef4195b8",
+            "id": "7980f65b5ebc13e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/intro.md",
+                "file": "mentor/ДЗ 050525.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "intro"
-            }
-          },
-          {
-            "id": "bdb56e4a54d351f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "98f7a313b1d9278d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "154765b39ccb9275",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-04-23.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-04-23"
-            }
-          },
-          {
-            "id": "ad59f06666bb3675",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work/backup-sevice.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "backup-sevice"
+              "title": "ДЗ 050525"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 276.5
   },
   "right": {
     "id": "0705ea85da2308ae",
@@ -237,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5
+    "width": 261.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,30 +195,45 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ad59f06666bb3675",
+  "active": "7980f65b5ebc13e7",
   "lastOpenFiles": [
-    "ai/prompts cursor.md",
-    "work/backup-sevice.md",
-    "2025-04-23.md",
-    "2025-04-22.md",
-    "ai/Литература.md",
-    "ai/Интро.md",
+    "2025-05-11.md",
+    "2025-05-12.md",
+    "work/backup-service/design.md",
+    "work/backup-service/psql backup.md",
+    "work/backup-service/dump repos.md",
+    "Pasted image 20250509134112.png",
+    "Pasted image 20250426231004.png",
+    "work/backup-service/стратегии восстановления.md",
+    "work/backup-service/Встроенные механизмы резервирования.md",
+    "work/backup-service/backup-sevice.md",
+    "2025-05-10.md",
     "ai/AI list.md",
-    "Untitled.md",
-    "Excalidraw/Drawing 2025-04-22 16.45.07.excalidraw.md",
-    "Excalidraw/Drawing 2025-04-22 16.43.15.excalidraw.md",
+    "2025-05-09.md",
+    "dev/intro.md",
+    "ai/cursor.md",
+    "mentor/ДЗ 050525.md",
+    "2025-05-07.md",
+    "2025-05-06.md",
+    "algos/courses/vk/стек, очередь, дек/Очередь на списке.md",
+    "algos/courses/vk/стек, очередь, дек/Стек на списке.md",
+    "algos/courses/vk/стек, очередь, дек/Дека на двусвязном списке.md",
+    "work/backup-service/barman.md",
+    "work/flow.md",
+    "work/backup-service/gitaly.md",
+    "projects/algacode/code snippet.md",
+    "projects/algacode",
+    "algos/algos.canvas",
+    "algos/courses/vk/task 1.5 ближайшие соседи.md",
+    "algos/courses/vk/Очереди, деки и стеки.md",
+    "mentor",
+    "algos/courses/vk/стек, очередь, дек",
+    "algos/courses/vk",
+    "algos/courses",
+    "algos",
+    "work/backup-service",
     "Excalidraw",
     "work",
-    "dev/intro.md",
-    "dev.md",
-    "dev",
-    "ai",
-    "ai/Задачи, которые могу решить.md",
-    "projects/easy_work/intro.md",
-    "ai/database/RAG.md",
-    "ai/database",
-    "projects/easy_work",
-    "projects",
-    "ai/cursor.md"
+    "dev"
   ]
 }
