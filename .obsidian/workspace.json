@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2e11e3daacf597e3",
+        "id": "1423f9d64407f4fb",
         "type": "tabs",
         "children": [
           {
-            "id": "a6e6c88113666712",
+            "id": "d0cd698b2b74498c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/backup-service/Встроенные механизмы резервирования.md",
+                "file": "2025-08-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Встроенные механизмы резервирования"
-            }
-          },
-          {
-            "id": "7980f65b5ebc13e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mentor/ДЗ 050525.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ДЗ 050525"
+              "title": "2025-08-01"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 200
   },
   "right": {
     "id": "0705ea85da2308ae",
@@ -181,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,45 +180,56 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7980f65b5ebc13e7",
+  "active": "d0cd698b2b74498c",
   "lastOpenFiles": [
-    "2025-05-11.md",
-    "2025-05-12.md",
-    "work/backup-service/design.md",
-    "work/backup-service/psql backup.md",
-    "work/backup-service/dump repos.md",
+    "рефакторинг обсидиан.md",
+    "2025-08-01.md",
+    "📚 обучение/🧑‍💻 разработка/💽 бд",
+    "📚 обучение/🧑‍💻 разработка/۸ алгоритмы",
+    "📚 обучение/🧑‍💻 разработка/Untitled.md",
+    "📚 обучение/🧑‍💻 разработка",
+    "📚 обучение",
+    "⚔️ хобби",
+    "💼 работа",
+    "🧠 менталка",
+    "🏋️‍♂️ спорт",
+    "❤️‍🩹 здоровье",
+    "edu/sql/sqlacademy/Untitled.md",
+    "2025-07-31.md",
+    "граф.md",
+    "note_archive/2025-07-30.md",
+    "note_archive/2025-07-29.md",
+    "note_archive/2025-07-28.md",
+    "note_archive/2025-07-27.md",
+    "note_archive/2025-07-26.md",
+    "note_archive/2025-07-25.md",
+    "work/snippets/for front.md",
+    "work/snippets/дизайн ревью.md",
+    "вопросы.md",
+    "auto.md",
+    "algos/sort/quick_sort.md",
+    "edu/sql/sqlacademy",
+    "ai/Интро.md",
+    "ai/Литература.md",
+    "ai/Задачи, которые могу решить.md",
+    "Excalidraw/Drawing 2025-07-17 19.42.45.excalidraw.md",
+    "imgs/Pasted image 20250708134729.png",
+    "imgs/Pasted image 20250706120233.png",
+    "imgs/Pasted image 20250706115748.png",
+    "toxicprod/videos/гайд по мотивации/тейки.md",
+    "toxicprod/videos/ideas.md",
+    "note_archive/2025-07-24.md",
+    "note_archive/2025-07-23.md",
+    "note_archive/2025-07-22.md",
+    "toxicprod/videos/гайд по сну/Untitled.canvas",
+    "algos/algos.canvas",
+    "Pasted image 20250715171352.png",
+    "Pasted image 20250715171503.png",
+    "Pasted image 20250715171517.png",
+    "Pasted image 20250715171446.png",
+    "Pasted image 20250715171423.png",
     "Pasted image 20250509134112.png",
     "Pasted image 20250426231004.png",
-    "work/backup-service/стратегии восстановления.md",
-    "work/backup-service/Встроенные механизмы резервирования.md",
-    "work/backup-service/backup-sevice.md",
-    "2025-05-10.md",
-    "ai/AI list.md",
-    "2025-05-09.md",
-    "dev/intro.md",
-    "ai/cursor.md",
-    "mentor/ДЗ 050525.md",
-    "2025-05-07.md",
-    "2025-05-06.md",
-    "algos/courses/vk/стек, очередь, дек/Очередь на списке.md",
-    "algos/courses/vk/стек, очередь, дек/Стек на списке.md",
-    "algos/courses/vk/стек, очередь, дек/Дека на двусвязном списке.md",
-    "work/backup-service/barman.md",
-    "work/flow.md",
-    "work/backup-service/gitaly.md",
-    "projects/algacode/code snippet.md",
-    "projects/algacode",
-    "algos/algos.canvas",
-    "algos/courses/vk/task 1.5 ближайшие соседи.md",
-    "algos/courses/vk/Очереди, деки и стеки.md",
-    "mentor",
-    "algos/courses/vk/стек, очередь, дек",
-    "algos/courses/vk",
-    "algos/courses",
-    "algos",
-    "work/backup-service",
-    "Excalidraw",
-    "work",
-    "dev"
+    "Untitled.canvas"
   ]
 }

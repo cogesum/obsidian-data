@@ -1,0 +1,1 @@
+Прокси для OpenAI - https://github.com/AlexanderZhk/openai-api-proxy
