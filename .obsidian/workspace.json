@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "423688becb267fb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "05620234e234df49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06494947c4df1188",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-08-20.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-20"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1961b4825e764804",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b9b2ef792bf2fa8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4168c348d0d56a9d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6842f7a668dcdf4b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "092edc93d7c0ff88",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e062758dcec2d81b",
+    "type": "split",
+    "children": [
+      {
+        "id": "98eae07f91addcc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81c284e6ba9514f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2025-08-05.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-08-05"
+            }
+          },
+          {
+            "id": "3dc457e6923ce9e3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2025-08-05.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-08-05"
+            }
+          },
+          {
+            "id": "2c0765e3d34cd7dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "70856d90a19fb308",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2025-08-05.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-08-05"
+            }
+          },
+          {
+            "id": "3acc43cf1e868074",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "06494947c4df1188",
+  "lastOpenFiles": [
+    "2025-08-19.md",
+    "2025-08-20.md",
+    "⚔️ хобби/💪 продуктивность/toxicprod/videos/гайд по фокусу/Untitled.canvas",
+    "⚔️ хобби/💪 продуктивность/toxicprod/videos/гайд по фокусу/тейки.md",
+    "⚔️ хобби/💪 продуктивность/toxicprod/videos/ideas.md",
+    "⚔️ хобби/💪 продуктивность/toxicprod/videos/гайд по отказу от шортс/тейки.md",
+    "⚔️ хобби/💪 продуктивность/toxicprod/videos/гайд по отказу от шортс/Ресурсы.md",
+    "2025-08-16.md",
+    "📚 обучение/🧑‍💻 разработка/💙 ozon/roadmap.canvas",
+    "📚 обучение/🧑‍💻 разработка/💙 ozon/Темы, что важно разобрать.md",
+    "📚 обучение/🧑‍💻 разработка/💙 ozon/⛳️ курсы.md",
+    "📚 обучение/🧑‍💻 разработка/💙 ozon/💙 адаптация ozon/План.md",
+    "2025-08-18.md",
+    "2025-08-17.md",
+    "📠 архив/2025-08-15.md",
+    "⚔️ хобби/💪 продуктивность/toxicprod/Ресурсы-конкуренты.md",
+    "⚔️ хобби/💪 продуктивность/toxicprod/videos/гайд по отказу от шортс",
+    "⚔️ хобби/💪 продуктивность/toxicprod/productivity.md",
+    "⚔️ хобби/💪 продуктивность/toxicprod/Мысличувтсва.md",
+    "⚔️ хобби/💪 продуктивность/toxicprod/Контент содержимое.md",
+    "⚔️ хобби/💪 продуктивность/toxicprod/идеи для постов.md",
+    "⚔️ хобби/💪 продуктивность/toxicprod/videos/гайд по мотивации/тейки.md",
+    "⚔️ хобби/💪 продуктивность/toxicprod/videos/гайд по фокусу",
+    "⚔️ хобби/💪 продуктивность/toxicprod/videos/гайд по сну/тейки.md",
+    "⚔️ хобби/💪 продуктивность/toxicprod/videos/гайд по сну/Untitled.canvas",
+    "⚔️ хобби/💪 продуктивность/toxicprod/videos/гайд по сну/материалы.md",
+    "📠 архив/2025-08-14.md",
+    "📠 архив/2025-08-13.md",
+    "📠 архив/2025-08-12.md",
+    "📠 архив/2025-08-11.md",
+    "📚 обучение/🧑‍💻 разработка/💙 ozon/Untitled",
+    "📚 обучение/🧑‍💻 разработка/читать",
+    "💼 работа/⁉ вопросы",
+    "📚 обучение/🧑‍💻 разработка/💙 ozon",
+    "📚 обучение/🧑‍💻 разработка/💙 ozon/💙 адаптация ozon",
+    "Untitled.canvas",
+    "📚 обучение/🧑‍💻 разработка/۸ алгоритмы/algos.canvas",
+    "📚 обучение/🧑‍💻 разработка/۸ алгоритмы/курсы/vk/Экспоненциальный и тернарный поиск",
+    "📚 обучение/🧑‍💻 разработка/۸ алгоритмы/курсы/vk/стек, очередь, дек/tasks",
+    "📚 обучение/🧑‍💻 разработка/۸ алгоритмы/курсы/vk/стек, очередь, дек"
+  ]
+}

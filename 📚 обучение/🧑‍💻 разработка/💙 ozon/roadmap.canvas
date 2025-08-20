@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"a26d249d538fc9c0","type":"text","text":"START","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"bb4f3fea68c5d73a","type":"text","text":"Курсы адаптации","x":60,"y":-280,"width":250,"height":60},
+		{"id":"bb8d0b1405390cdc","type":"text","text":"Конвенция по микросервисам\nhttps://committee.t.o3.ru/services","x":-160,"y":-500,"width":320,"height":80},
+		{"id":"9a5309d1eecfcfd3","type":"text","text":"Обязательные тесты","x":200,"y":-490,"width":250,"height":60},
+		{"id":"3c24d2598a1f5c2b","type":"text","text":"Технические курсы","x":260,"y":-30,"width":250,"height":60},
+		{"id":"b8c452a090ff0757","x":254,"y":180,"width":262,"height":132,"type":"text","text":"Тех онбординг, пройти ручками: https://devs-onboarding.prod.a.o3.ru/devs-onboarding/backend/"}
+	],
+	"edges":[
+		{"id":"25df09d137c59732","fromNode":"a26d249d538fc9c0","fromSide":"top","toNode":"bb4f3fea68c5d73a","toSide":"left"},
+		{"id":"672c226ee5448832","fromNode":"bb4f3fea68c5d73a","fromSide":"top","toNode":"bb8d0b1405390cdc","toSide":"bottom","toEnd":"none"},
+		{"id":"1e79503ab68fe25a","fromNode":"a26d249d538fc9c0","fromSide":"right","toNode":"3c24d2598a1f5c2b","toSide":"left"},
+		{"id":"f985b15ae347fb62","fromNode":"bb4f3fea68c5d73a","fromSide":"top","toNode":"9a5309d1eecfcfd3","toSide":"bottom"},
+		{"id":"f5a2fcf8054c3105","fromNode":"3c24d2598a1f5c2b","fromSide":"bottom","toNode":"b8c452a090ff0757","toSide":"top","toEnd":"none"}
+	]
+}

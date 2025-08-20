@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"817df52ad08214e0","type":"text","text":"Фокус","x":-140,"y":-40,"width":250,"height":60},
+		{"id":"b7156a9f251880ca","type":"text","text":"Что?","x":-520,"y":-40,"width":250,"height":60},
+		{"id":"7e6aa3a8ad998e73","type":"text","text":"Как?","x":240,"y":-40,"width":250,"height":60},
+		{"id":"93155cefa8dc1c94","type":"text","text":"Гаджеты должны быть однофункциональны","x":490,"y":-952,"width":250,"height":60},
+		{"id":"15e77c52ab9aad0a","type":"text","text":"телефон - общение, мб навигатор + банк сервисы","x":799,"y":-1120,"width":461,"height":60},
+		{"id":"3febdc65329d282b","type":"text","text":"ноутбук - работа, учеба","x":880,"y":-1012,"width":250,"height":60},
+		{"id":"8ec334609efdf103","type":"text","text":"планшет (дома) - энтертеймент","x":874,"y":-903,"width":566,"height":60},
+		{"id":"76f9d0b034659c35","x":799,"y":-800,"width":250,"height":60,"type":"text","text":"электронная книга - для чтения (не телефон)"}
+	],
+	"edges":[
+		{"id":"5c786b4a8c7ce003","fromNode":"817df52ad08214e0","fromSide":"left","toNode":"b7156a9f251880ca","toSide":"right"},
+		{"id":"4f84e46845bc939b","fromNode":"817df52ad08214e0","fromSide":"right","toNode":"7e6aa3a8ad998e73","toSide":"left"},
+		{"id":"8ee1434203b337ee","fromNode":"7e6aa3a8ad998e73","fromSide":"right","toNode":"93155cefa8dc1c94","toSide":"left"},
+		{"id":"96ab85a460e32033","fromNode":"93155cefa8dc1c94","fromSide":"right","toNode":"15e77c52ab9aad0a","toSide":"left"},
+		{"id":"895fc45917d8e2a7","fromNode":"93155cefa8dc1c94","fromSide":"right","toNode":"3febdc65329d282b","toSide":"left"},
+		{"id":"2ba44f87a42aba9d","fromNode":"93155cefa8dc1c94","fromSide":"right","toNode":"8ec334609efdf103","toSide":"left"},
+		{"id":"944e5e1fe6cd2caa","fromNode":"93155cefa8dc1c94","fromSide":"right","toNode":"76f9d0b034659c35","toSide":"left"}
+	]
+}
