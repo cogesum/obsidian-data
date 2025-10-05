@@ -1,0 +1,2 @@
+- https://app.codecrafters.io/courses/kafka/overview
+- https://stepik.org/course/194556/promo

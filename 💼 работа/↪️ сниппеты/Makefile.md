@@ -8,3 +8,19 @@ generate: .generate-mocks .format-proto
     $(MAKE) .remove-invalid-generated-files
 ```
 
+
+
+```
+#  external_services_overrides:
+#     usage: "Per services settings"
+#     group: "scratch"
+#     type: "string"
+#     value: |
+#       {
+#         "express-couriers-delivery-route-api": {
+#           "discovery": {
+#             "target": "localhost:7102"
+#           }
+#         }
+#       }
+```
