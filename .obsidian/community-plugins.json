@@ -1,5 +1,7 @@
 [
   "calendar",
   "table-editor-obsidian",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "obsidian-git",
+  "obsidian-excalidraw-plugin"
 ]

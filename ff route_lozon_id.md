@@ -1,0 +1,28 @@
+- internal/db/point/repository.go:344 ❌ ?
+- internal/db/point/repository.go:363 ❌ ?
+-
+- internal/db/point/repository.go:398 ?
+- internal/db/point/repository.go:417 ?
+-
+- internal/db/point/repository.go:648 ✅
+-
+- internal/db/point/repository.go:755 ✅
+-
+- internal/db/point/repository.go:1000 ✅
+-
+- internal/db/point/repository.go:1066 ✅
+-
+- internal/db/point/repository.go:1120 ✅
+-
+- internal/db/point/repository.go:1236 ✅
+-
+- internal/db/route/repository.go:738
+-
+- internal/db/route_point/repository.go:186
+-
+- internal/db/route_point/repository.go:212
+-
+- internal/db/route_point/repository.go:251
+-
+- internal/db/route_point/repository.go:317
+- internal/db/route_point/repository.go:336
