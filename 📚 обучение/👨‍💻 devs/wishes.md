@@ -1,13 +1,10 @@
-- https://app.codecrafters.io/courses/kafka/overview
 - https://stepik.org/course/194556/promo
 - алгокод
-- курсы влада тена по алгоритам
+- курсы влада тена по алгоритам https://rutube.ru/plst/971658/
 - курсы влада тена по систем дизайн
 - курс goland 2020
 - курс route 256
 - стартап
-- helix
 - шардирование
 - видосы по многопоточку
 - книга concurrency in go
-- route256
