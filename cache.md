@@ -1,12 +1,8 @@
 
-- [x] задачку создать
-- [ ] проверить sql запрос ниже
-- [ ] найти запрос для АМ и написать под него индекс
-- [ ] проверить что ListUnassignedPoints и BatchGetUnassignedPoints работают 
-
-
 /autorouting/v1/unassigned_postings
 - в коде сделать фичу флаг на sql ниже и протестить в сборке
+
+
 
 
 ```
