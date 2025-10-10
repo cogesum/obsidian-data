@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"8b79e1392771394c","type":"text","text":"карьера","x":-100,"y":0,"width":105,"height":60},
+		{"id":"c5ce50e2b224d129","type":"text","text":"озон менеджмент","x":-540,"y":-60,"width":250,"height":60},
+		{"id":"2a8f63de48fb4089","type":"text","text":"удаленка забугром","x":217,"y":-78,"width":250,"height":60},
+		{"id":"c066939f73cdc2e3","type":"text","text":"стартап","x":-172,"y":-260,"width":250,"height":60},
+		{"id":"4eca02a636c99734","type":"text","text":"общее:\n- технические скиллы обязательны\n- умение в продуктивность и тайм менеджемент (в особенности, успевать все и сразу)","x":-266,"y":280,"width":437,"height":324},
+		{"id":"4b1c71606599a080","type":"text","text":"плюсы:\n- уже в озон\n- вроде бы понятный трек\n- меньше собесов\n- больше перспективы по карьеры\n- возможно, долго не будет прям высокой зп","x":-1402,"y":-679,"width":333,"height":280},
+		{"id":"a4b35c40094423bb","type":"text","text":"минусы:\n- менеджмент сомнительно\n- сильно привязан контекст","x":-1402,"y":-347,"width":250,"height":235},
+		{"id":"79a781b87ab4aaf3","x":-1235,"y":42,"width":400,"height":400,"type":"file","file":"📚 обучение/развитие/что делаю для озон менеджемнт.md"},
+		{"id":"ce18d773409ae186","type":"text","text":"плюсы:\n- деньги\n- статус\n- перспективы","x":-952,"y":-880,"width":250,"height":162},
+		{"id":"33c9c48d6fa5486d","type":"text","text":"минусы:\n- мала вероятность что выстрелит\n- требует много разносторонних усилий\n- вряд ли окупится","x":-585,"y":-880,"width":343,"height":165},
+		{"id":"0ac21ed8990257c5","x":-665,"y":-599,"width":250,"height":60,"type":"text","text":"pref/con"},
+		{"id":"7c95a2631b85582a","type":"text","text":"pref/con\n","x":-1035,"y":-320,"width":250,"height":60},
+		{"id":"bc603bb98d78e541","type":"text","text":"плюсы:\n- удаленка\n- денег достаточно\n- нет привязки к гео","x":635,"y":-569,"width":250,"height":144},
+		{"id":"222865c4d3fe6b92","type":"text","text":"минусы:\n- неопределенность\n- привязка к hard скиллам\n- учить язык","x":960,"y":-617,"width":250,"height":192},
+		{"id":"d93f59ccc357a2c7","x":760,"y":-320,"width":250,"height":60,"type":"text","text":"prev/con"},
+		{"id":"f1297ecad58ff81d","x":-154,"y":-831,"width":400,"height":400,"type":"file","file":"📚 обучение/развитие/что делаю для стартап.md"},
+		{"id":"d8691aebbaf9d3ab","x":810,"y":-120,"width":400,"height":400,"type":"file","file":"📚 обучение/развитие/что делаю для удаленка за бугром или технарь+.md"}
+	],
+	"edges":[
+		{"id":"cd09fc5f7b3ffdb3","fromNode":"8b79e1392771394c","fromSide":"left","toNode":"c5ce50e2b224d129","toSide":"right"},
+		{"id":"8a9f289ca882890f","fromNode":"8b79e1392771394c","fromSide":"right","toNode":"2a8f63de48fb4089","toSide":"left"},
+		{"id":"f7e2139fd63e7c89","fromNode":"8b79e1392771394c","fromSide":"top","toNode":"c066939f73cdc2e3","toSide":"bottom"},
+		{"id":"b41d6b97c69d0f8b","fromNode":"7c95a2631b85582a","fromSide":"left","toNode":"4b1c71606599a080","toSide":"right"},
+		{"id":"38d45defc9ae23ba","fromNode":"7c95a2631b85582a","fromSide":"left","toNode":"a4b35c40094423bb","toSide":"right"},
+		{"id":"f9b9c163bdf192b2","fromNode":"d93f59ccc357a2c7","fromSide":"top","toNode":"bc603bb98d78e541","toSide":"bottom"},
+		{"id":"a52d5f44242eb03e","fromNode":"d93f59ccc357a2c7","fromSide":"top","toNode":"222865c4d3fe6b92","toSide":"bottom"},
+		{"id":"9a5e9d1de1df14cc","fromNode":"0ac21ed8990257c5","fromSide":"top","toNode":"ce18d773409ae186","toSide":"bottom"},
+		{"id":"88aac5b1d67d6e2b","fromNode":"0ac21ed8990257c5","fromSide":"top","toNode":"33c9c48d6fa5486d","toSide":"bottom"},
+		{"id":"f72bc88cc0ec02ae","fromNode":"8b79e1392771394c","fromSide":"bottom","toNode":"4eca02a636c99734","toSide":"top"},
+		{"id":"aa5388aa2d1fb903","fromNode":"c5ce50e2b224d129","fromSide":"left","toNode":"7c95a2631b85582a","toSide":"right"},
+		{"id":"d2d3a9c1b0fdfb14","fromNode":"c5ce50e2b224d129","fromSide":"left","toNode":"79a781b87ab4aaf3","toSide":"right"},
+		{"id":"e564045a54f8ba7c","fromNode":"c066939f73cdc2e3","fromSide":"top","toNode":"0ac21ed8990257c5","toSide":"bottom"},
+		{"id":"86d53eb9f69c4c2f","fromNode":"2a8f63de48fb4089","fromSide":"top","toNode":"d93f59ccc357a2c7","toSide":"bottom"},
+		{"id":"e476b84609d4f8f0","fromNode":"c066939f73cdc2e3","fromSide":"top","toNode":"f1297ecad58ff81d","toSide":"bottom"},
+		{"id":"18ddc2f255d290ee","fromNode":"2a8f63de48fb4089","fromSide":"right","toNode":"d8691aebbaf9d3ab","toSide":"left"}
+	]
+}
