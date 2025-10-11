@@ -1,4 +1,4 @@
-- [ ] правки по fresh-click
+- [x] правки по fresh-click
 
 #### DLQ
 - [ ] глянуть референс кафки ридера по подключению к БД
@@ -9,8 +9,8 @@
 
 
 - [x] 1 flow
-- [ ] 2 flow
-- [ ] 3 flow
+- [x] 2 flow
+- [x] 3 flow
 - [ ] 4 flow
 - [ ] 5 flow
 - [ ] 6 flow
