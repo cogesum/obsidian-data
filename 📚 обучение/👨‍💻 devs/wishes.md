@@ -9,3 +9,4 @@
 - видосы по многопоточку
 - книга concurrency in go
 - заполнить linkedIn
+- @tormozilla_bot - курс по девопс

@@ -20,5 +20,5 @@ sudo killall MobiControl; cd /Library/Application\ Support/MobiControl_Resources
 https://chatzone.o3t.ru/ozon/pl/v0040miq5ldhrh9rqpvnva4ckr
 
 ---
-#### Если нужно проктинуть трейсы кафки
+#### Если нужно прокинуть трейсы кафки
 https://chatzone.o3t.ru/ozon/pl/v00405cph0uusucgs6kfhsr6k5
