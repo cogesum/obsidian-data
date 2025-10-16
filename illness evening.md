@@ -1,0 +1,16 @@
+- [ ] тест click-service
+- [ ] proxy-inbound накинуть метрики, добавить async publisher, тестить функциональность, почитать доку
+
+
+#### тест fresh click service
+- [ ] проверить что есть все метрики в настройках
+- [ ] перевести консьмер на мою сборку (отключить остальные)
+- [ ] накидать графану для счетчиков метрик
+- [ ] перевести в дебаг режим и следить за бдшкой
+
+
+#### доделать fresh inbound proxy
+- [ ] изучить доку по [databus](https://gitlab.ozon.ru/platform/go/databus/-/blob/v2/docs/publisher_async.md) и спросить про NewPublisherAsync
+- [ ] переделать databus publisher новый
+- [ ] накидать метрик (пока без кафки)
+- [ ] глянуть как накидать спанов для databushttps://chatzone.o3t.ru/ozon/pl/v00405cph0uusucgs6kfhsr6k5
