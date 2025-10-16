@@ -10,7 +10,6 @@
 
 
 #### доделать fresh inbound proxy
-- [ ] изучить доку по [databus](https://gitlab.ozon.ru/platform/go/databus/-/blob/v2/docs/publisher_async.md) и спросить про NewPublisherAsync
 - [ ] переделать databus publisher новый
 - [ ] накидать метрик (пока без кафки)
 - [ ] глянуть как накидать спанов для databushttps://chatzone.o3t.ru/ozon/pl/v00405cph0uusucgs6kfhsr6k5

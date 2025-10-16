@@ -1,3 +1,5 @@
 {
-  "cssTheme": ""
+  "cssTheme": "Border",
+  "accentColor": "#a30fcc",
+  "theme": "moonstone"
 }

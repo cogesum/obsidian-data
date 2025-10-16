@@ -4,7 +4,6 @@ https://chatzone.o3t.ru/ozon/pl/v0040l4q41q3fbc8vcb9hldeju
 Открой Терминал Вставь команду в терминале 
 ```
 sudo killall MobiControl; cd /Library/Application\ Support/MobiControl_Resources;sudo sh MCUninstaller.sh
-
 ``` 
 Нажми enter После выполнения команды - перезагрузись.
 
