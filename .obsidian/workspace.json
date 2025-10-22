@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e062758dcec2d81b",
@@ -186,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 314.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,13 +207,18 @@
   },
   "active": "e394ebf7914addac",
   "lastOpenFiles": [
-    "2025-10-21.md",
+    "📚 обучение/развитие/paths.canvas",
+    "task.md",
     "2025-10-22.md",
-    "💼 работа/↪️ сниппеты/commands.md",
+    "💼 работа/циклопед/Ссылки.md",
     "💼 работа/циклопед/глоссарий.md",
+    "Pasted image 20251022020708.png",
+    "Pasted image 20251022002902.png",
+    "Pasted image 20251021234839.png",
+    "2025-10-21.md",
+    "💼 работа/↪️ сниппеты/commands.md",
     "💼 работа/циклопед/⁉️ qa.md",
     "💼 работа/циклопед/links/Инструкция по ТЯ.md",
-    "💼 работа/циклопед/Ссылки.md",
     "📠 архив/2025-10-20.md",
     "📠 архив/2025-10-19.md",
     "📠 архив/2025-10-18.md",
@@ -236,13 +243,10 @@
     "📠 архив/2025-10-09.md",
     "📚 обучение/👨‍💻 devs/wishes.md",
     "📚 обучение/👨‍💻 devs/ссылки.md",
-    "📚 обучение/👨‍💻 devs/топики.md",
-    "evening activity.md",
     "⚔️ хобби/startups",
     "Pasted image 20251014004551.png",
     "Pasted image 20251009175900.png",
     "📚 обучение/👨‍💻 devs/۸ алгоритмы/algos.canvas",
-    "📚 обучение/развитие/paths.canvas",
     "❤️‍🩹 здоровье/🪥 гигиена/Untitled.canvas",
     "📚 обучение/развитие",
     "Excalidraw",
