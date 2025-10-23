@@ -1,0 +1,17 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "📚 обучение/books/list"
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.folder == "📚 обучение/books/list"
+    order:
+      - file.name
+      - author
+    imageFit: contain
+    image: note.coverUrl
+    imageAspectRatio: 1.25
