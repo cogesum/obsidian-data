@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e062758dcec2d81b",
@@ -208,9 +207,11 @@
   },
   "active": "e394ebf7914addac",
   "lastOpenFiles": [
+    "💼 работа/циклопед/Ссылки.md",
+    "💼 работа/циклопед/глоссарий.md",
+    "2025-10-23.md",
     "📠 архив/2025-10-22.md",
     "📠 архив/2025-10-21.md",
-    "2025-10-23.md",
     "📚 обучение/books/my books.base",
     "📚 обучение/books/list/gRPC запуск и эксплуатация облачных приложений Go и Java для Docker и Kubernetes - Касун Индрасири Данеш Курупу.md",
     "📚 обучение/books/Untitled.md",
@@ -222,8 +223,6 @@
     "индексы.md",
     "task.md",
     "Pasted image 20251021234839.png",
-    "💼 работа/циклопед/Ссылки.md",
-    "💼 работа/циклопед/глоссарий.md",
     "📚 обучение/развитие/paths.canvas",
     "Pasted image 20251022020708.png",
     "Pasted image 20251022002902.png",
