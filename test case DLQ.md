@@ -1,0 +1,2 @@
+- check delivery_route_consumer_lost_postings_total (move to full model)
+- check internal/app/express_postings_updates/... (move to service layer)
