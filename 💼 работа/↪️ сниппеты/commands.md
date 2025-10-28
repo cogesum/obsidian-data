@@ -11,3 +11,10 @@ jdbc:postgresql://ikoronatov@master.express-couriers-delivery-route-api.stg.pg.d
 
 
 ---
+##### ⁉️ нужно убрать username@ чтобы приконнектиться корректно
+```
+jdbc:postgresql://master.delivery-route-consumer.stg.pg.db.o3.ru:6532/delivery-route-consumer
+```
+
+
+o3 pg connect print --role master --database delivery-route-consumer --environment stg --format jdbc

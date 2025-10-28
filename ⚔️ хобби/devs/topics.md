@@ -1,0 +1,2 @@
+- алгоритмы хэширования (mimir2, sha256)
+- etcd и leader election
