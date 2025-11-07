@@ -1,0 +1,3 @@
+- тест fresh-click-service
+	- что улетает в databus
+	- что в outbox
