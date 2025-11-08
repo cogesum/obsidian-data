@@ -18,6 +18,52 @@ Constraints:
 - `s` and `t` consist of lowercase English letters.
 ```
 
+```go
+// 1. by map
+// 2. by char
+
+func anagramByMap(s, t string) bool {
+// base map for s
+// iterate by sMap and con by t
+// iterate and check if all keys are 0
+
+	baseMap := make(map[char]int, 0)
+	for _, c := range s {
+		baseMap[string(c)] += 1
+	}
+	
+	for _, c := range t {
+		if ok, v := baseMap[c]; ok {
+			baseMap[string(c)] -= 1
+		}
+	}
+	
+	for _, v := range baseMap {
+		if v != 0 {
+			return false
+		}
+	}
+	
+	return true
+}
+
+
+func anagramByChar(s, t string) bool {
+	result := 0
+	
+	for _, c := range s {
+		result += c
+	}
+	
+	for _, c := range t {
+		result -= c
+	}
+	
+	retrun result == 0
+}
+
+```
+
 
 **Follow up:** What if the inputs contain Unicode characters? How would you adapt your solution to such a case?
 
