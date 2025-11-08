@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cache.md",
+                "file": "tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cache"
+              "title": "tasks"
             }
           }
         ]
@@ -201,37 +201,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-book-search-plugin:Create new book note": false
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-importer:Open Importer": false
     }
   },
   "active": "871628e9e8d9ee6f",
   "lastOpenFiles": [
-    "coffee event.md",
-    "cache.md",
     "2025-11-07.md",
+    "tasks.md",
+    "⚔️ хобби/devs/topics.md",
+    "⚔️ хобби/💪 продуктивность/опросник.md",
+    "⚔️ хобби/💪 продуктивность/steps/цели что завершил.md",
     "2025-11-06.md",
+    "📠 архив/2025-11-01.md",
+    "📠 архив/2025-10-31.md",
+    "📠 архив/2025-10-30.md",
+    "cache.md",
+    "coffee event.md",
     "📠 архив/2025-11-05.md",
     "💼 работа/циклопед/⁉️ qa.md",
     "⁉️ questions.md",
     "индексы.md",
     "⚔️ хобби/💪 продуктивность/emotion_weekend/Эмоции каждую неделю.md",
     "тейки.md",
-    "2025-10-30.md",
     "after party.md",
     "test case DLQ.md",
     "💼 работа/циклопед/глоссарий.md",
     "💼 работа/циклопед/Ссылки.md",
     "💼 работа/циклопед/шардирование.md",
-    "2025-11-01.md",
     "💼 работа/циклопед/links/Инструкция по ТЯ.md",
     "evening alone.md",
-    "⚔️ хобби/devs/topics.md",
-    "2025-10-31.md",
     "night event.md",
     "📠 архив/2025-10-29.md",
-    "❤️‍🩹 здоровье/🏃‍♀️ похудение/вес.md",
-    "📠 архив/2025-10-28.md",
-    "⚔️ хобби/startups/идеи.md",
     "⚔️ хобби/devs",
     "📚 обучение/развитие/paths.canvas",
     "📚 обучение/books/my books.base",
