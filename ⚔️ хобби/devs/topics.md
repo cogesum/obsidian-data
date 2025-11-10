@@ -2,6 +2,7 @@
 - etcd и leader election (election compaign)
 - написать свой преобразователь из сайта в pdf (с архитектурой)
 - rate limiter и circuit breaker
+- цикл for на трех языках (go, rust, python) (как работает на процессоре, как копирует)
 
 
 - бдшки (индексы в патрициях)
