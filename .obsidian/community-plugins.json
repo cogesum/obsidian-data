@@ -4,5 +4,6 @@
   "obsidian-git",
   "obsidian-excalidraw-plugin",
   "obsidian-book-search-plugin",
-  "obsidian-importer"
+  "obsidian-importer",
+  "simple-code-formatter"
 ]

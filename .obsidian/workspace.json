@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-11-11.md",
+                "file": "2025-11-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-11"
+              "title": "2025-11-12"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "right": {
     "id": "e062758dcec2d81b",
@@ -201,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 314.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,13 +224,13 @@
   },
   "active": "3cf4b8ff65aa7f4a",
   "lastOpenFiles": [
+    "фокус IV квартал.md",
     "2025-11-12.md",
     "🏆 kazan plans.md",
-    "2025-11-11.md",
+    "📠 архив/2025-11-11.md",
+    "📠 архив/2025-11-10.md",
     "индексы.md",
     "⚔️ хобби/devs/topics.md",
-    "2025-11-10.md",
-    "фокус IV квартал.md",
     "test case DLQ.md",
     "💼 работа/↪️ сниппеты/commands.md",
     "📠 архив/2025-11-07.md",
