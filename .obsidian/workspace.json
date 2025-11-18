@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "индекс.md",
+                "file": "2025-11-18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "индекс"
+              "title": "2025-11-18"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 369.5
   },
   "right": {
     "id": "e062758dcec2d81b",
@@ -201,7 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 242.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,8 +222,14 @@
   },
   "active": "3cf4b8ff65aa7f4a",
   "lastOpenFiles": [
-    "2025-11-17.md",
+    "2025-11-19.md",
+    "⚔️ хобби/💪 продуктивность/stress-lvl.md",
+    "2025-11-18.md",
     "индекс.md",
+    "Pasted image 20251118122906.png",
+    "💼 работа/циклопед/Ссылки.md",
+    "📠 архив/2025-11-17.md",
+    "cache.md",
     "❤️‍🩹 здоровье/🏃‍♀️ похудение/вес.md",
     "🧠 менталка/Психолог.md",
     "🧠 менталка/2025-10-04.md",
@@ -233,22 +239,17 @@
     "📠 архив/2025-11-16.md",
     "📠 архив/2025-11-14.md",
     "📠 архив/2025-11-12.md",
-    "cache.md",
     "тейки.md",
     "ипотека.md",
     "test case DLQ.md",
     "индексы.md",
     "task of the week.md",
     "tasks.md",
-    "⚔️ хобби/💪 продуктивность/stress-lvl.md",
     "⚔️ хобби/💪 продуктивность/emotion_weekend/Эмоции каждую неделю.md",
     "⚔️ хобби/💪 продуктивность/опросник.md",
     "⚔️ хобби/devs/topics.md",
     "⚔️ хобби/🏡 дом/Идеи.md",
     "⚔️ хобби/🏡 дом",
-    "🏆 kazan plans.md",
-    "📠 архив/2025-11-05.md",
-    "💼 работа/циклопед/Ссылки.md",
     "Untitled.base",
     "⚔️ хобби/devs",
     "📚 обучение/развитие/paths.canvas",
