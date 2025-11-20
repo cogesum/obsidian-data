@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d51b9a73eaf006fa",
+        "id": "5d0a5ccfef8c6fad",
         "type": "tabs",
         "children": [
           {
-            "id": "3cf4b8ff65aa7f4a",
+            "id": "42c671d3504f6947",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -206,11 +206,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "3cf4b8ff65aa7f4a",
+  "active": "42c671d3504f6947",
   "lastOpenFiles": [
-    "().md",
-    "2025-11-20.md",
     "2025-11-19.md",
+    "2025-11-18.md",
+    "2025-11-20.md",
+    "().md",
     "индекс.md",
     "тейки.md",
     "ипотека.md",
@@ -220,7 +221,6 @@
     "evening.md",
     "⚔️ хобби/devs/topics.md",
     "🏆 kazan plans.md",
-    "2025-11-18.md",
     "⚔️ хобби/💪 продуктивность/emotion_weekend/Эмоции каждую неделю.md",
     "⚔️ хобби/💪 продуктивность/stress-lvl.md",
     "💼 работа/циклопед/Ссылки.md",
