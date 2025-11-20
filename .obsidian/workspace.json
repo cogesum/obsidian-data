@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5,
-    "collapsed": true
+    "width": 369.5
   },
   "right": {
     "id": "e062758dcec2d81b",
@@ -187,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 242.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,8 +208,9 @@
   },
   "active": "3cf4b8ff65aa7f4a",
   "lastOpenFiles": [
-    "2025-11-19.md",
+    "().md",
     "2025-11-20.md",
+    "2025-11-19.md",
     "индекс.md",
     "тейки.md",
     "ипотека.md",
@@ -234,7 +235,6 @@
     "📠 архив/2025-11-16.md",
     "📠 архив/2025-11-14.md",
     "📠 архив/2025-11-12.md",
-    "индексы.md",
     "⚔️ хобби/🏡 дом",
     "Untitled.base",
     "⚔️ хобби/devs",
